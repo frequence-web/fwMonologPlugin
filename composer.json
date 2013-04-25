@@ -1,5 +1,5 @@
 {
-    "name": "frequence-web/monolog-plugin",
+    "name": "frequence-web/fw-monolog-plugin",
     "type": "symfony1-plugin",
     "require": {
         "composer/installers": "1.*"
